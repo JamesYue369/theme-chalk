@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElementUI/theme-chalk.git"
+    "url": "git+https://github.com/JamesYue369/theme-chalk.git"
   },
   "keywords": [
     "element",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ElementUI/theme-chalk/issues"
+    "url": "https://github.com/JamesYue369/theme-chalk/issues"
   },
   "homepage": "",
   "devDependencies": {
